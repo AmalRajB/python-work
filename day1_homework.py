@@ -11,14 +11,4 @@ for blog in blog_views:
         print("low traffic")
     total_views=total_views+blog    
 print(f"the number of blogs currently in trending is : {trending_post}") 
-print(f"the total number of views obtained from all the blogs is : {total_views}")               
-   
-
-
-
-    
-
-
-        
-
-    
+print(f"the total number of views obtained from all the blogs is : {total_views}") 
